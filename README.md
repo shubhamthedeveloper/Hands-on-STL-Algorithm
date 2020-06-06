@@ -29,7 +29,7 @@ This Repo contains all the top STL Algorithm implemented using modern C++
 * Lower_bound()
 * Upper_bound()
 
-**_Numerical algos _**
+**_Numerical algos_**
 * Count()
 * Accumulate()
 * Resduce()
