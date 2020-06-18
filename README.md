@@ -35,7 +35,7 @@ This Repo contains all the top STL Algorithm implemented using modern C++
 * Resduce()
 * Transform_reduce()
 * Partial_sum()
-* Inclusive_scan(0
+* Inclusive_scan()
 * Transform_inclusive_scan()
 * Exclusive_scan()
 * Transform_exclusive_scan()
@@ -88,7 +88,7 @@ This Repo contains all the top STL Algorithm implemented using modern C++
 * Copy()
 * Move()
 * Swap_ranges()
-* Move_backward(0
+* Move_backward()
 * Copy_backward()
 
 ### 5. Land of value modifiers 
